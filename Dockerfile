@@ -1,5 +1,5 @@
 # Start from the code-server Debian base image
-FROM codercom/code-server:3.12.0
+FROM wlserver1/codearea:1
 
 USER coder
 
